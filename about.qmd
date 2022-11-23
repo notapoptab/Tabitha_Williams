@@ -1,5 +1,6 @@
 ---
-title: "About"
+
+about:
+    template: jolla
 ---
 
-I have a background here
