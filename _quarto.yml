@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "personal_portfolio"
+  title: "Tabitha Williams"
   navbar:
     left:
       - href: index.qmd
