@@ -11,4 +11,4 @@ links:
       href: https://github.com/notapoptab
 ---
 
-background info goes here
+I'm an awesome person, hire me. 
